@@ -14,3 +14,12 @@ print(dictionary)
 
 
 
+x = Counter('Manishhhhhh')
+print(x.items())
+
+'''
+output
+
+dict_items([('M', 1), ('a', 1), ('n', 1), ('i', 1), ('s', 1), ('h', 6)])
+'''
+
